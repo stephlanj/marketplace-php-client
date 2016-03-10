@@ -13,5 +13,5 @@
       "FnacApiClient": "src/",
       "FnacApiGui": "src/"
     }
-  },
+  }
 }
