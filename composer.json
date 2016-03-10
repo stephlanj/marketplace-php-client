@@ -1,0 +1,17 @@
+{
+  "name": "stephlanj/marketplace-php-client",
+  "description": "Librairies for fnac market place",
+  "minimum-stability": "dev",
+  "license": "Apache-2.0",
+  "authors": [{
+    "name": "Fnac",
+    "homepage": "https://fnac.com/"
+  }],
+  "include-path": ["src/"],
+  "autoload": {
+    "psr-0": {
+      "FnacApiClient": "/",
+      "FnacApiGui": "src/"
+    }
+  }
+}
